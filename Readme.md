@@ -1,1 +1,1 @@
-# This a basic server using node.js and graphQL.
+## Basic server using node.js and graphQL.
